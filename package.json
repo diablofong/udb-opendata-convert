@@ -1,0 +1,23 @@
+{
+  "name": "udb-opendata-convert",
+  "version": "1.0.0",
+  "description": "大專院校校務資訊公開資料轉檔程式",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diablofong/udb-opendata-convert.git"
+  },
+  "keywords": [
+    "node",
+    "opendata"
+  ],
+  "author": "duncan <diablofong@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/diablofong/udb-opendata-convert/issues"
+  },
+  "homepage": "https://github.com/diablofong/udb-opendata-convert#readme"
+}
